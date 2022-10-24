@@ -10,14 +10,6 @@ Tests a falling Distance Function.
 
 ## Getting Started
 
-### Dependencies
-
-- Windows 10
-
-### Setup
-
-* Deployment: CLI
-
 ## Version History
 
 * 0.1
